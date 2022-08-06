@@ -1,0 +1,14 @@
+.sinif {
+	color: blue;
+}
+.yazi {
+	font-weight: bold;
+}
+
+div.sinif.yazi {
+	color: purple;
+}
+p.sinif.yazi#div2 {
+	color: yellow;
+	font-weight: bold;
+}

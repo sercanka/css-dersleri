@@ -1,0 +1,10 @@
+@import "link-etiketi.css" ;
+@import "id-secici.css" ;
+@import "class-secici.css" ;
+@import "evrensel-secici.css" ; 
+@import "grup-secici.css" ;
+@import "torun-secici.css" ;
+
+h4 {
+	color: yellow;
+}
