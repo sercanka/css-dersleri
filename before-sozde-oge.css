@@ -1,0 +1,23 @@
+.divim {
+	background: red;
+}
+.divim::after {
+	content: ' sonraki yazi';
+	color: black;
+	background: green;
+}
+.divim::before {
+	content: 'onceki yazi';
+	color: black;
+	background: yellow;
+}
+
+/*
+.divim::before {
+	content: attr(title);
+	color: black;
+	background: yellow;
+}
+
+*/ 
+

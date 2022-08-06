@@ -1,0 +1,29 @@
+abbr[title] {
+	color: red;
+}
+#pr1 {
+	color: white;
+}
+#pr2 {
+	color: white;
+}
+
+div[class="div"] {
+	color: red;	
+}
+
+div[class|="div"] {
+	color: yellow;	
+}
+
+div[class^="div"] {
+	color: lightblue;	
+}
+
+div[class$="div"] {
+	color: green;	
+}
+
+div[class*="div" i] {
+	color: green;	
+}

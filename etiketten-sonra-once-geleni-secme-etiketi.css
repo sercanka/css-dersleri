@@ -1,0 +1,12 @@
+#budiv {
+	color: white;
+}
+
+div + p {
+	color: yellow;
+}
+
+div ~ span {
+	color: purple;
+}
+

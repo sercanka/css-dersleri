@@ -4,6 +4,9 @@
 @import "evrensel-secici.css" ; 
 @import "grup-secici.css" ;
 @import "torun-secici.css" ;
+@import "etiketten-sonra-once-geleni-secme-etiketi.css" ;
+@import "nitelik-deger-secici.css" ;
+@import "before-sozde-oge.css" ;
 
 h4 {
 	color: yellow;
