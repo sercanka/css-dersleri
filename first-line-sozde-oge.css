@@ -1,0 +1,11 @@
+p::first-line {
+	background: yellow;
+	color: black;
+	font-size: 20px;
+}
+::selection {
+	background: orange;
+}
+p::selection {
+	background: red;
+}

@@ -7,6 +7,9 @@
 @import "etiketten-sonra-once-geleni-secme-etiketi.css" ;
 @import "nitelik-deger-secici.css" ;
 @import "before-sozde-oge.css" ;
+@import "first-letter-sozde-ogesi.css" ;
+@import "first-line-sozde-oge.css" ;
+@import "placeholder-sozde-ogesi.css" ;
 
 h4 {
 	color: yellow;
