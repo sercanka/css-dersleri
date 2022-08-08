@@ -10,6 +10,26 @@
 @import "first-letter-sozde-ogesi.css" ;
 @import "first-line-sozde-oge.css" ;
 @import "placeholder-sozde-ogesi.css" ;
+@import "first-child-sozde-sinifi.css" ;
+@import "last-child-sozde-sinifi.css" ;
+@import "first-of-type-sozde-sinifi.css" ;
+@import "last-of-type-sozde-sinifi.css" ;
+@import "nth-child-sozde-sinifi.css" ;
+@import "nth-of-type-sozde-sinifi.css" ;
+@import "hover-sozde-sinifi.css" ;
+@import "checked-sozde-sinifi.css" ;
+@import "focus-sozde-sinifi.css" ;
+@import "focus-within-sozde-sinifi.css" ;
+@import "only-child-sozde-sinifi.css" ;
+@import "not-sozde-sinifi.css" ;
+@import "empty-sozde-sinifi.css" ;
+@import "valid-invalid-sozde-siniflari.css" ;
+@import "focus-within-sozde-sinifi.css" ;
+@import "active-link-visited-anylink-sozde-siniflari.css" ;
+@import "target-sozde-sinifi.css" ;
+@import "inrange-outofrange-sozde-siniflari.css" ;
+@import "root-sozde-sinifi.css" 
+
 
 h4 {
 	color: yellow;

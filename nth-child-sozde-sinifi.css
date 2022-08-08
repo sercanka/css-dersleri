@@ -1,0 +1,22 @@
+/*  ul li:nth-child(3n+2) {  --> her ucten birini sec 2 den basla 
+	background: skyblue;
+}
+
+ul li:nth-child(odd) {   --> tek sayidan olusanlari secer
+	background-color: lime;
+}
+
+ul li:nth-child(even) {      --> cift sayidan olusanlari secer
+	background-color: lime;
+}
+*/
+
+ul li:nth-child(n+4) {          /* --> 4 ten sonrasini sec */
+	background-color: purple;
+}
+
+/*
+ul li:nth-child(-n+4) {      --> 4 ten oncesini sec
+	background-color:  purple;
+}
+*/

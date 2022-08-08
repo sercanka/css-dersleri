@@ -1,0 +1,6 @@
+li:focus {
+	background-color: teal;
+}
+ul:focus-within {
+	background-color: darkred;
+}

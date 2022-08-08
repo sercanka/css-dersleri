@@ -1,0 +1,18 @@
+.input1:enabled {
+	background-color: yellow;
+}
+.input1:enabled {
+	background-color: red;
+}
+.input2:optional {
+	background-color: yellow;
+}
+.input2:required {
+	background-color: red;
+}
+.input3:read-only{
+	background-color: gray;
+}
+.input3:read-write {
+	background-color: yellow;
+}

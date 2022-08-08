@@ -1,0 +1,23 @@
+ul li:hover {
+	background-color: lightblue;
+}
+a:hover {
+	background-color: red;
+	font-size: 20px;
+}
+div:hover {
+	background-color: yellow;
+}
+div span:hover  {
+	background-color: purple;
+}
+button:hover + ul {
+	display: none;
+}
+
+p::selection {
+	background-color: yellow;
+}
+p:hover::selection {
+	background-color: purple;
+}

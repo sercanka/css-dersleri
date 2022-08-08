@@ -1,0 +1,11 @@
+button:focus {
+	background-color: lime;
+	color: black;
+}
+input:focus {
+	color: red;
+	border-color: red;
+}
+a:focus {
+	background-color: yellow;
+}

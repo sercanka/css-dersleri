@@ -1,0 +1,6 @@
+input:invalid {
+	border-color: tomato;
+}
+input:valid {
+	border-color: green;
+}
